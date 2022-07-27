@@ -6,7 +6,7 @@ step two: locate start.bat file![image](https://user-images.githubusercontent.co
 step three: locate main.jar file, and copy its path in exact order.                                                                                                        
 step four: open start.bat using notepad, then paste the file path you just copied after cd on second line                           
 
-![image](https://user-images.githubusercontent.com/90762431/181359609-590e3783-41f8-40d2-8c91-679def13bba5.png)
+![image](https://user-images.githubusercontent.com/90762431/181369543-cdb51fc7-bf7f-4f89-bf24-68f0cc20bf1a.png)
 
 step five: open up run by doing windows + r                                                                                                                                
 step six: put shell:startup on run and press ok                                                                                                                                                                            
@@ -17,6 +17,6 @@ step seven: copy the start.bat file you just edited, and paste it in that direct
 you are done! now this application will load up automatically everytime you start your pc.                                                                                                                                                          
 caution: Never place main.jar in startup folder, it will cause an error. always keep config file and main.jar file together. if you move it's location, make sure to updare it's path in start.bat folder. MUST HAVE JAVA INSTALLED
 
-**here is a video guide:**                                                                                                                                                   
-https://user-images.githubusercontent.com/90762431/181348376-045cd461-7e21-4cde-ba4d-954274ae7e06.mp4
+**here is a video guide:**                                                                                                                                               https://user-images.githubusercontent.com/90762431/181369166-3474c8e8-793d-4d41-ac40-f44f674fb88b.mp4
+
 
