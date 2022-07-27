@@ -12,4 +12,5 @@ step six: put shell:startup on run and press ok
 step seven: copy the start.bat file you just edited, and paste it in that directory!                                                                                                                                                          
 [image](https://user-images.githubusercontent.com/90762431/181345627-00d4f0a9-e890-475f-95e4-bdb4173d6d5d.png)                                                                             
 
-you are done! now this application will load up automatically everytime you start your pc.
+you are done! now this application will load up automatically everytime you start your pc.                                                                                                                                                          
+caution: Never place main.jar in startup folder, it will cause an error. always keep config file and main.jar file together. if you move it's location, make sure to updare it's path in start.bat folder.
