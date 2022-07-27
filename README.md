@@ -1,7 +1,7 @@
 # KeyWordProtection
 This application can close any app when you type certain keywords. it's to help people with addiction of pornography. simply make a download the package file, extract it. goto config and configure your keyword settings, click on start.bat and it will be running! incase you want to run it on startup, follow these steps:
 
-step one: extract the file
+step one: extract the file \n
 step two: locate start.bat file![image](https://user-images.githubusercontent.com/90762431/181344405-3684b93b-7dee-40fd-8385-52fc805152da.png)
 step three: locate main.jar file, and copy its path in exact order. 
 step four: open start.bat using notepad, then paste the file path you just copied in the place of main.jar
