@@ -1,2 +1,16 @@
 # KeyWordProtection
-This application can close any app when you type certain keywords. it's to help people with addiction of pornography. simply make a download the package file, extract it. goto config and configure your keyword settings, click on start.bat and it will be running! incase you want to run it on startup, please place all the files on startup folder. you can get to startup folder by pressing windows + r, then searching for shell:startup and press ok. paste all the files in that folder and you will be ready to begin your new journey of nofapping
+This application can close any app when you type certain keywords. it's to help people with addiction of pornography. simply make a download the package file, extract it. goto config and configure your keyword settings, click on start.bat and it will be running! incase you want to run it on startup, follow these steps:
+
+step one: extract the file
+step two: locate start.bat 
+file![image](https://user-images.githubusercontent.com/90762431/181344405-3684b93b-7dee-40fd-8385-52fc805152da.png)
+step three: locate main.jar file, and copy its path in exact order. 
+step four: open start.bat using notepad, then paste the file path you just copied in the place of main.jar
+![image](https://user-images.githubusercontent.com/90762431/181344972-01c82565-55c5-4fda-bff3-b92fa8606957.png)
+step five: open up run by doing windows + r 
+step six: put shell:startup on run and press ok 
+![image](https://user-images.githubusercontent.com/90762431/181345278-b70dc475-8b6d-47fa-b60c-1e7a470f3ec1.png)
+step seven: copy the start.bat file you just edited, and paste it in that directory!
+[image](https://user-images.githubusercontent.com/90762431/181345627-00d4f0a9-e890-475f-95e4-bdb4173d6d5d.png)
+
+you are done! now this application will load up automatically everytime you start your pc.
